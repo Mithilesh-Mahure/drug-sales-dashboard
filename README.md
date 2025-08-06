@@ -1,8 +1,4 @@
 🩺 Drug Sales Dashboard
-Author: Mithilesh Mahure
-Date: (add your project completion date)
-Live Dashboard: (optional: include link if deployed)
-
 
 <img width="959" height="541" alt="image" src="https://github.com/user-attachments/assets/41866f82-0eb8-4f92-b321-b6a21fce980e" />
 
